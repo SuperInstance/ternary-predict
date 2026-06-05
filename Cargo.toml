@@ -1,0 +1,6 @@
+[package]
+name = "ternary-predict"
+version = "0.1.0"
+edition = "2021"
+description = "Prediction-first perception for ternary agents — simulation-driven sensing, adaptive deadbands, attention as scarce resource"
+license = "MIT"
